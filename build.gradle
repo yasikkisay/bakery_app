@@ -41,4 +41,5 @@ dependencies {
     compile 'mysql:mysql-connector-java'
     
     compile group: 'org.modelmapper', name: 'modelmapper', version: '2.3.2'
+    compile group: 'org.hibernate', name: 'hibernate-validator', version: '6.0.16.Final'
 }

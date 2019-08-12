@@ -8,7 +8,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
-public class MappingConfig {
+public class CakeConfig {
 
     @Bean
     public ModelMapper modelMapper() {
